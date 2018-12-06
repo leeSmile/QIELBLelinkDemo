@@ -1,0 +1,25 @@
+{
+  "name": "QIELBLelink",
+  "version": "0.1.0",
+  "summary": "A short description of QIELBLelink.A short description of QIELBLelink",
+  "description": "TODO: Add long description of the pod here.A short description of QIELBLelink",
+  "homepage": "https://github.com/leeSmile/QIELBLelinkDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "244645877@qq.com": "244645877@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/leeSmile/QIELBLelinkDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QIELBLelink/Classes/**/*{.h}",
+  "ios": {
+    "vendored_frameworks": "QIELBLelink/Classes/LBLelinkKit.framework"
+  }
+}

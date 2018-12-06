@@ -1,0 +1,6 @@
+framework module QIELBLelink {
+  umbrella header "QIELBLelink-umbrella.h"
+
+  export *
+  module * { export * }
+}

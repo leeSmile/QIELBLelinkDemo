@@ -1,0 +1,6 @@
+framework module Pods_QIELBLelink_Tests {
+  umbrella header "Pods-QIELBLelink_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

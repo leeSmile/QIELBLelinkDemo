@@ -1,0 +1,16 @@
+PODS:
+  - QIELBLelink (0.1.0)
+
+DEPENDENCIES:
+  - QIELBLelink (from `../`)
+
+EXTERNAL SOURCES:
+  QIELBLelink:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QIELBLelink: 187821c51192a7197adbc947002fcf994127c2eb
+
+PODFILE CHECKSUM: 5f5aa9bcb6a9dbbf319562bb31bc58c2ef4c6c1b
+
+COCOAPODS: 1.5.3
